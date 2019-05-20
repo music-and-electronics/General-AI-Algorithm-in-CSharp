@@ -1,0 +1,5 @@
+/home/dextop/C sharp/First_cs/First_cs/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dextop/C sharp/First_cs/First_cs/bin/Debug/First_cs.exe.mdb
+/home/dextop/C sharp/First_cs/First_cs/bin/Debug/First_cs.exe
+/home/dextop/C sharp/First_cs/First_cs/obj/x86/Debug/First_cs.exe
+/home/dextop/C sharp/First_cs/First_cs/obj/x86/Debug/First_cs.exe.mdb
