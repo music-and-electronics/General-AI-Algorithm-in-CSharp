@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "인공지능 과제 8", "인공지능 과제 8.csproj", "{ABFEACBC-2629-432B-8C54-56EF8A546356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFEACBC-2629-432B-8C54-56EF8A546356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFEACBC-2629-432B-8C54-56EF8A546356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFEACBC-2629-432B-8C54-56EF8A546356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFEACBC-2629-432B-8C54-56EF8A546356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41F2AB31-A533-4A8D-B84C-8B9700247BDC}
+	EndGlobalSection
+EndGlobal
