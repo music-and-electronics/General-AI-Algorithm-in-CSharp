@@ -150,7 +150,7 @@ namespace Ai_hw_8
 
         public ANN()
         {
-            Console.Write("Input the level of hidden layer: ");
+            Console.Write("Input the level of hidden layer: ! ");
             int layer_num = Int32.Parse(Console.ReadLine())+2;
             Initial_DATA initial = new Initial_DATA(layer_num);
 
