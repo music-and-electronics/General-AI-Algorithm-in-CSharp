@@ -151,7 +151,7 @@ namespace Ai_hw_8
         public ANN()
         {
             Console.Write("Input the level of hidden layer: ");
-            Console.WriteLine("This is a sample for Git hub TEST!");
+            Console.WriteLine("This is a sample for Git hub TEST! Again!");
             int layer_num = Int32.Parse(Console.ReadLine())+2;
             Initial_DATA initial = new Initial_DATA(layer_num);
 
